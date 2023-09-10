@@ -1,0 +1,86 @@
+div{
+    display:grid;
+  
+
+}
+h1 {
+    height: 50px;
+    width: 100%;
+    size: 100%;
+    font: 5em sans-serif;
+    align-items: center;
+    align-self: center;
+}
+h2 {
+    height: 50px;
+    width: 100%;
+    size: 100%;
+    font-family:  sans-serif;
+    align-content: center;
+}
+td {
+    height: 86px;
+    width: 67px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.g {
+    background-color: #99E599;
+    text-align: center;
+    color: #0c6d0c;
+}
+.y {
+    background-color: #FFE57F;
+    text-align: center;
+    color: #ad8b05;
+}
+.o {
+    background-color: #FFCCB2;
+    text-align: center;
+    color: #b43c00;
+}
+.or {
+    background-color: #EA8350;
+    text-align: center;
+    color: #f5f1f0;
+}
+
+.b {
+    background-color: #B2E5FF;
+    text-align: center;
+    color: #0087ca;
+}
+
+.p {
+    background-color: #FFCCE5;
+    text-align: center;
+    color: #872d59f3;
+}
+
+.gr {
+    background-color: #CCCCCC;
+    text-align: center;
+    color: #494646;
+}
+
+.pr {
+    background-color: #9E87BD;
+    text-align: center;
+    color: #3b0d78;
+}
+.cyan {
+    background-color: #7FE5E5;
+    text-align: center;
+    color: #049191;
+}
+.nb {
+    background-color: #B2CCFF;
+    text-align: center;
+    color: #0c3b97;
+}
+footer {
+    text-align: center;
+    size: 20px;
+    text-shadow: #0c3b97;
+    display: flex;
+    text-align-last: auto;
+}
